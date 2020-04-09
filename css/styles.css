@@ -8,6 +8,17 @@ h1 {
 img {
   border: 4px solid #d86aa1; 
 }
+.iconz {
+  border: none;
+  float: right;
+  padding: 3 px;
+}
+/*.jumbotron img {
+  float: left;
+}*/
+.panel {
+  margin-top: 12px;
+}
 .panel-body {
   background-color: #f1bbd6;
 }
@@ -38,6 +49,6 @@ a:hover {
 .panel-primary > .panel-footer + .panel-collapse > .panel-body {
   border-bottom-color: #d86aa1;
 }
-/* {
+/* * {
   border: 1px solid red;
-}/
+} */
