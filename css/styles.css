@@ -17,6 +17,27 @@ a {
 a:hover {
   color: #d86aa1;
 }
+.jumbotron {
+  text-align: center;
+}
+.panel-primary {
+  border-color: #d86aa1;
+}
+.panel-primary > .panel-heading {
+  color: #fff;
+  background-color: #d86aa1;
+  border-color: #d86aa1;
+}
+.panel-primary > .panel-heading + .panel-collapse > .panel-body {
+  border-top-color: #d86aa1;
+}
+.panel-primary > .panel-heading .badge {
+  color: #d86aa1;
+  background-color: #fff;
+}
+.panel-primary > .panel-footer + .panel-collapse > .panel-body {
+  border-bottom-color: #d86aa1;
+}
 /* {
   border: 1px solid red;
 }/
