@@ -5701,22 +5701,22 @@ button.list-group-item-danger.active:focus {
   border-bottom-color: #ddd;
 }
 .panel-primary {
-  border-color: #d86aa1;
+  border-color: #337ab7;
 }
 .panel-primary > .panel-heading {
   color: #fff;
-  background-color: #d86aa1;
-  border-color: #d86aa1;
+  background-color: #337ab7;
+  border-color: #337ab7;
 }
 .panel-primary > .panel-heading + .panel-collapse > .panel-body {
-  border-top-color: #d86aa1;
+  border-top-color: #337ab7;
 }
 .panel-primary > .panel-heading .badge {
-  color: #d86aa1;
+  color: #337ab7;
   background-color: #fff;
 }
 .panel-primary > .panel-footer + .panel-collapse > .panel-body {
-  border-bottom-color: #d86aa1;
+  border-bottom-color: #337ab7;
 }
 .panel-success {
   border-color: #d6e9c6;
