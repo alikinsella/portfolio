@@ -1,6 +1,6 @@
 # _Portfolio Landing Page_
 
-#### Homework for Epicodus, April 9, 2020_
+#### Homework for _Epicodus, April 9, 2020_
 
 #### By _**Ali Kinsella**_
 
