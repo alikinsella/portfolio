@@ -8,6 +8,10 @@
 
 _This page fulfills a requirement for my course. It gives a little information about me and links to projects I've been working on._
 
+## Link to this site on GitHub Pages
+
+https://alikinsella.github.io/portfolio
+
 ## Setup/Installation Requirements
 
 * __There aren't any setup instructions.__
