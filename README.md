@@ -1,4 +1,4 @@
-# _{Application Name}_
+# _Portfolio Landing Page_
 
 #### Homework for Epicodus, April 9, 2020_
 
